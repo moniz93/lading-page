@@ -28,6 +28,9 @@ body {
 
 .hero {
     display: flex;
+    background-color: #1F2937;
+    margin: 100px; 
+    display: flex;  
 }
 
 .logo {
@@ -58,9 +61,7 @@ a {
 }
 
 .hero {
-    background-color: #1F2937;
-    margin: 0; 
-    display: flex;  
+
 }
 
 .main-header {
