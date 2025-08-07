@@ -73,9 +73,9 @@ a {
 }
 
 .placeholder {
-    width: 100%;
+    width: 600px;
     height: auto;
-    max-width: 450px;
+    max-width: 600px;
     margin: 20px auto;
 }
 
