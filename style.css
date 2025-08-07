@@ -92,3 +92,18 @@ a {
     cursor: pointer;
 }
 
+.random {
+    text-align: center;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card {  
+border: 5px solid blue;
+padding: 60px 30px;
+border-radius: 15px;
+}
