@@ -7,7 +7,7 @@ body {
 
 .hero-container {
     background-color: #1F2937;
-    padding: 0px 100px 100px 100px;
+    padding: 20px 200px 200px 200px;
     text-align: center;
     color: white;
     margin: 0;
@@ -58,10 +58,6 @@ ul {
 a {
     color: white;
     text-decoration: none;
-}
-
-.hero {
-
 }
 
 .main-header {
