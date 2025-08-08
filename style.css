@@ -92,6 +92,8 @@ a {
 .random {
     text-align: center;
     padding: 50px;
+    color: #1f2937;
+    background-color: #ffffff;
 }
 
 .boxes {
@@ -105,4 +107,9 @@ a {
 border: 5px solid blue;
 padding: 60px 30px;
 border-radius: 15px;
+}
+
+.random h2 {
+    font-size: 36px;
+    font-weight: 900;
 }
