@@ -173,3 +173,10 @@ border-radius: 20px;
     width: 150px;
     align-items: center;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+}
