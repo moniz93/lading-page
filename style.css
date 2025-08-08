@@ -98,9 +98,13 @@ a {
 
 .boxes {
     display: flex;
-    justify-content: center;
     gap: 50px;
     padding: 50px;
+}
+
+.item {
+    width: 25%;
+    justify-items: center;
 }
 
 .card {  
